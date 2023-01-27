@@ -4,7 +4,7 @@ Aplicatie ce va reprezenta o agentie de fotomodele construita cu C#, WindowsForm
 
 Aplicatia poate fi rulata local. Pentru a o putea rula trebuie descarcate toate sursele si pentru baza de date facut restore.
 
-Backup-ul la baza de date se gaseste in folderul AdditionalInformation.
+Backup-ul la baza de date se gaseste in folderul Resources.
 
 !!! Atentie la versiunea folosita de SQL Server, eu am folosit versiunea 12.0.5223.
 
